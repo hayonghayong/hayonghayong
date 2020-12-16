@@ -3,6 +3,8 @@
 <!--
 **hayonghayong/hayonghayong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![](https://raw.githubusercontent.com/hayonghayong/hayonghayong/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
