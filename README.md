@@ -2,6 +2,8 @@
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?hayonghayong=zizi4n5)
 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?hayonghayong=zizi4n5)
+
 
 <!--
 **hayonghayong/hayonghayong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
