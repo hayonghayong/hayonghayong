@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?hayonghayong=zizi4n5)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?hayonghayong/hayonghayong=zizi4n5)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?hayonghayong=zizi4n5)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?hayonghayong/hayonghayong=zizi4n5)
 
 
 <!--
