@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-[![](https://raw.githubusercontent.com/hayonghayong/hayonghayong/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-![](https://komarev.com/ghpvc/?username=hayonghayong&color=green)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?hayonghayong=zizi4n5)
 
 
 <!--
